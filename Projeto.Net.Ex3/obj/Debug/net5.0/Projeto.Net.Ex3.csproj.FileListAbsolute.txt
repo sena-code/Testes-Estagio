@@ -1,0 +1,16 @@
+C:\Users\Vinicius\Desktop\Teste Estágio\Projeto.Net.Ex3\obj\Debug\net5.0\Projeto.Net.Ex3.csprojAssemblyReference.cache
+C:\Users\Vinicius\Desktop\Teste Estágio\Projeto.Net.Ex3\obj\Debug\net5.0\Projeto.Net.Ex3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicius\Desktop\Teste Estágio\Projeto.Net.Ex3\obj\Debug\net5.0\Projeto.Net.Ex3.AssemblyInfoInputs.cache
+C:\Users\Vinicius\Desktop\Teste Estágio\Projeto.Net.Ex3\obj\Debug\net5.0\Projeto.Net.Ex3.AssemblyInfo.cs
+C:\Users\Vinicius\Desktop\Teste Estágio\Projeto.Net.Ex3\obj\Debug\net5.0\Projeto.Net.Ex3.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\Desktop\Teste Estágio\Projeto.Net.Ex3\bin\Debug\net5.0\Projeto.Net.Ex3.exe
+C:\Users\Vinicius\Desktop\Teste Estágio\Projeto.Net.Ex3\bin\Debug\net5.0\Projeto.Net.Ex3.deps.json
+C:\Users\Vinicius\Desktop\Teste Estágio\Projeto.Net.Ex3\bin\Debug\net5.0\Projeto.Net.Ex3.runtimeconfig.json
+C:\Users\Vinicius\Desktop\Teste Estágio\Projeto.Net.Ex3\bin\Debug\net5.0\Projeto.Net.Ex3.runtimeconfig.dev.json
+C:\Users\Vinicius\Desktop\Teste Estágio\Projeto.Net.Ex3\bin\Debug\net5.0\Projeto.Net.Ex3.dll
+C:\Users\Vinicius\Desktop\Teste Estágio\Projeto.Net.Ex3\bin\Debug\net5.0\ref\Projeto.Net.Ex3.dll
+C:\Users\Vinicius\Desktop\Teste Estágio\Projeto.Net.Ex3\bin\Debug\net5.0\Projeto.Net.Ex3.pdb
+C:\Users\Vinicius\Desktop\Teste Estágio\Projeto.Net.Ex3\obj\Debug\net5.0\Projeto.Net.Ex3.dll
+C:\Users\Vinicius\Desktop\Teste Estágio\Projeto.Net.Ex3\obj\Debug\net5.0\ref\Projeto.Net.Ex3.dll
+C:\Users\Vinicius\Desktop\Teste Estágio\Projeto.Net.Ex3\obj\Debug\net5.0\Projeto.Net.Ex3.pdb
+C:\Users\Vinicius\Desktop\Teste Estágio\Projeto.Net.Ex3\obj\Debug\net5.0\Projeto.Net.Ex3.genruntimeconfig.cache

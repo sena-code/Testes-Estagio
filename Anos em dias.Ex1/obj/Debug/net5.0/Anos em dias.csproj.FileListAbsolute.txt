@@ -1,0 +1,16 @@
+C:\Users\Vinicius\Desktop\Teste Estágio\Anos em dias\bin\Debug\net5.0\Anos em dias.exe
+C:\Users\Vinicius\Desktop\Teste Estágio\Anos em dias\bin\Debug\net5.0\Anos em dias.deps.json
+C:\Users\Vinicius\Desktop\Teste Estágio\Anos em dias\bin\Debug\net5.0\Anos em dias.runtimeconfig.json
+C:\Users\Vinicius\Desktop\Teste Estágio\Anos em dias\bin\Debug\net5.0\Anos em dias.runtimeconfig.dev.json
+C:\Users\Vinicius\Desktop\Teste Estágio\Anos em dias\bin\Debug\net5.0\Anos em dias.dll
+C:\Users\Vinicius\Desktop\Teste Estágio\Anos em dias\bin\Debug\net5.0\ref\Anos em dias.dll
+C:\Users\Vinicius\Desktop\Teste Estágio\Anos em dias\bin\Debug\net5.0\Anos em dias.pdb
+C:\Users\Vinicius\Desktop\Teste Estágio\Anos em dias\obj\Debug\net5.0\Anos em dias.csprojAssemblyReference.cache
+C:\Users\Vinicius\Desktop\Teste Estágio\Anos em dias\obj\Debug\net5.0\Anos em dias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicius\Desktop\Teste Estágio\Anos em dias\obj\Debug\net5.0\Anos em dias.AssemblyInfoInputs.cache
+C:\Users\Vinicius\Desktop\Teste Estágio\Anos em dias\obj\Debug\net5.0\Anos em dias.AssemblyInfo.cs
+C:\Users\Vinicius\Desktop\Teste Estágio\Anos em dias\obj\Debug\net5.0\Anos em dias.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\Desktop\Teste Estágio\Anos em dias\obj\Debug\net5.0\Anos em dias.dll
+C:\Users\Vinicius\Desktop\Teste Estágio\Anos em dias\obj\Debug\net5.0\ref\Anos em dias.dll
+C:\Users\Vinicius\Desktop\Teste Estágio\Anos em dias\obj\Debug\net5.0\Anos em dias.pdb
+C:\Users\Vinicius\Desktop\Teste Estágio\Anos em dias\obj\Debug\net5.0\Anos em dias.genruntimeconfig.cache
